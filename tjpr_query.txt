@@ -1,0 +1,30 @@
+<select name="idLocalPesquisa" id="idLocalPesquisa"><option value="1" selected="selected" id="amb_1">EMENTA</option>						
+					
+						<option value="2" id="amb_2">INTEIRO TEOR</option>						
+					
+						<option value="99" id="amb_99">AMBAS</option></select>
+						
+
+
+</div>
+				<select name="ambito" onchange="marcaAmbito()"><option value="-1" selected="selected">TODAS</option>					
+											
+						<option value="4" id="amb_4">TURMAS RECURSAIS</option>						
+											
+						<option value="6" id="amb_6">TRIBUNAL DE JUSTIÇA</option>						
+											
+						<option value="7" id="amb_7">1ª VICE-PRESIDÊNCIA</option></select>
+			</div>
+
+
+
+<select name="idsTipoDecisaoSelecionados"><option value="-1" selected="selected">TODAS</option>					
+											
+						<option value="1" id="amb_1">ACÓRDÃO</option>						
+											
+						<option value="2" id="amb_2">DECISÃO MONOCRÁTICA</option>						
+											
+						<option value="3" id="amb_3">DÚVIDA/EXAME DE COMPETÊNCIA</option></select>
+			</div>
+			
+
